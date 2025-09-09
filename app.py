@@ -32,7 +32,7 @@ from sentiment_experiment import sentiment_experiment
 
 st.set_page_config(page_title="BiasLab Lite", layout="wide", page_icon="⚖️")
 
-st.title("⚖️ BiasLab Lite – AI Bias Sandbox")
+st.title("BiasLab Lite – AI Bias Sandbox")
 st.write("Upload a dataset or try the built-in biased dataset (Adult Income).")
 
 dataset_choice = st.radio(
