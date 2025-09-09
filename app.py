@@ -1,5 +1,4 @@
 import streamlit as st
-<<<<<<< HEAD
 from apps import text_demo, image_demo, challenge_demo
 from pages import info
 
